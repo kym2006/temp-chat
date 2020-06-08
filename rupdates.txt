@@ -1,0 +1,6 @@
+kym2006 connected
+kym2006: now it automatically scrolls to the bottom
+kym2006: :0
+kym2006 disconnected
+ connected
+ disconnected
