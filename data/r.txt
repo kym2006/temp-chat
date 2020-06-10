@@ -1,0 +1,12 @@
+tester2 connected10/05/2020  17:13:05
+tester2 disconnected10/05/2020  17:13:07
+adsf connected10/05/2020  17:14:07
+adsf: hi10/05/2020  17:14:09
+adsf: it finally shows the time stamp now!10/05/2020  17:14:16
+adsf: yaya10/05/2020  17:14:17
+adsf: !!10/05/2020  17:14:18
+adsf: !10/05/2020  17:14:18
+adsf: 10/05/2020  17:14:18
+adsf: !10/05/2020  17:14:18
+adsf: !10/05/2020  17:14:18
+adsf disconnected10/05/2020  17:14:21

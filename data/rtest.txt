@@ -1,0 +1,28 @@
+test connected10/05/2020  17:12:44
+test: hi10/05/2020  17:12:45
+test: does this work10/05/2020  17:12:48
+test: now10/05/2020  17:12:49
+test: ?10/05/2020  17:12:49
+test: da10/05/2020  17:12:50
+test: fas10/05/2020  17:12:50
+test: df10/05/2020  17:12:50
+test: asd10/05/2020  17:12:50
+test: f10/05/2020  17:12:50
+test: sda10/05/2020  17:12:50
+test: f10/05/2020  17:12:51
+test: ok10/05/2020  17:12:57
+test: i guess it works?10/05/2020  17:13:00
+tester2 connected10/05/2020  17:13:10
+tester2: yeah i guess so10/05/2020  17:13:13
+tester2: hmmm10/05/2020  17:13:15
+tester2: adsf10/05/2020  17:13:15
+tester2: sad10/05/2020  17:13:15
+tester2: f10/05/2020  17:13:15
+tester2: asd10/05/2020  17:13:16
+tester2: k just gonna spam10/05/2020  17:13:19
+tester2: 10/05/2020  17:13:19
+tester2: 10/05/2020  17:13:19
+tester2: 10/05/2020  17:13:19
+test: OK CAN10/05/2020  17:13:25
+test disconnected10/05/2020  17:13:28
+tester2 disconnected10/05/2020  17:13:33
